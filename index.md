@@ -2,7 +2,7 @@
 
 Haven refines your browsing experience by hiding unwanted content, making the internet more comfortable and safer.
 
-![Screenshot](https://github.com/arcadia-io/arcadia-io.github.io/blob/main/screenshot.png)
+![Screenshot](https://github.com/arcadia-io/arcadia-io.github.io/blob/main/docs/assets/images/screenshot.png)
 
 ## Features
 
