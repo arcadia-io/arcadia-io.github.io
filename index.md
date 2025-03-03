@@ -26,7 +26,7 @@ Haven is designed for anyone who wants more control over browsing experience. It
 
 - Individuals recovering from PTSD, trauma-related conditions, phobias, addictions, or other mental health issues.
 
-- People aiming to minimize distractions and  stay focused.
+- People aiming to minimize distractions and stay focused.
 
 - Parents creating a safer browsing space for their children.
 
