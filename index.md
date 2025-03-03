@@ -1,3 +1,5 @@
+# Haven
+
 Haven refines your browsing experience by hiding unwanted content, making the internet more comfortable and safer.
 
 ![Screenshot](/docs/assets/images/screenshot.png)
